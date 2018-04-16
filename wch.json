@@ -1,0 +1,58 @@
+{
+    "initialTrades": [
+        {
+            "coin": "XLM",
+            "exchangedForCoin": "ETH",
+            "when": "2017-12-19 16:37:35",
+            "howMany": 1875
+        },
+        {
+            "coin": "LRC",
+            "exchangedForCoin": "ETH",
+            "when": "2017-12-19 05:37:35",
+            "howMany": 1588
+        },
+        {
+            "coin": "XMR",
+            "exchangedForCoin": "ETH",
+            "when": "2017-12-16 12:46:39",
+            "howMany": 1.320
+        },
+        {
+            "coin": "WTC",
+            "exchangedForCoin": "ETH",
+            "when": "2017-12-15 12:06:06",
+            "howMany": 3.04
+        },
+        {
+            "coin": "IOTA",
+            "exchangedForCoin": "ETH",
+            "when": "2017-12-15 12:04:12",
+            "howMany": 26
+        },
+        {
+            "coin": "XRP",
+            "exchangedForCoin": "ETH",
+            "when": "2017-12-14 07:38:15",
+            "howMany": 725
+        },
+        {
+            "coin": "BNB",
+            "exchangedForCoin": "ETH",
+            "when": "2017-12-13 13:54:19",
+            "howMany": 148
+        },
+        {
+            "coin": "WTC",
+            "exchangedForCoin": "ETH",
+            "when": "2017-12-12 15:30:37",
+            "howMany": 59.88
+        },
+        {
+            "coin": "IOTA",
+            "exchangedForCoin": "ETH",
+            "when": "2017-12-12 15:29:24",
+            "howMany": 94
+        }
+    ]
+}
